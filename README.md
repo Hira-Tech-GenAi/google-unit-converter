@@ -1,6 +1,3 @@
-Here’s a polished `README.md` for your **Google Unit Converter** project:
-
----
 
 # 🌐 Google Unit Converter
 
@@ -53,8 +50,8 @@ Make sure you have Python 3.9+ installed.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/unit-converter.git
-cd unit-converter
+https://github.com/Hira-Tech-GenAi/google-unit-converter.git
+cd google-unit-converter
 ```
 
 2. **Install dependencies**
